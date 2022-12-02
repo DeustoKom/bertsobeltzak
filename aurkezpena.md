@@ -1,8 +1,12 @@
 ---
-title: "Bertso beltzak, lehen eta orain: aurkezpena'"
+title: "Bertso beltzak, lehen eta orain: aurkezpena"
 date: 2022-11-30
 layout: nota
 ---
+
+<h2> Bertso beltzak, lehen eta orain: aurkezpena</h2>
+
+<div class="nota" markdown="1">
 
 <strong>Elixabete Perez Gaztelu, Euskal Gaien Institutuko Zuzendaria</strong>
 
@@ -40,3 +44,5 @@ Mila-mila esker, gurekin hemen egoteagatik.
 Saioa osorik grabatzen ari dira eta laster paratuko dugu Interneten hemen ez dagoenak, gustua badu, ikusi eta entzun nahi badu, nahiz hemen egonagatik, begi-belarriak berriz gozatu nahi dugunontzat.
 
 Aurrera, Jabier.
+
+</div>
