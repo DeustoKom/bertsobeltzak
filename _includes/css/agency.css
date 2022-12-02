@@ -176,17 +176,18 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Playfair Display", Georgia ,cursive;
+    font-family: {{ site.data.template.font.secondary }};
     font-weight: bold;
     color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-brand .by {
-    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     font-weight:200;
     text-transform:uppercase;
     font-size:.7em;
     opacity: .6;
+    filter: blur(1px);
 }
 
 .navbar-default .navbar-brand .by .kom {
@@ -297,7 +298,8 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 22px;
     font-style: normal;
@@ -306,7 +308,6 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 50px;
     font-weight: 700;
@@ -320,7 +321,8 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
+        margin-bottom: 50px;
+        text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
         font-size: 40px;
         font-style: normal;
@@ -328,8 +330,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
-        text-transform: uppercase;
+        margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
         font-size: 75px;
         font-weight: 700;
