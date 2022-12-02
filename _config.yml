@@ -2,9 +2,9 @@ url: https://lab.deustokom.news
 baseurl: /bertsobeltzak
 
 # Site settings
-title: Ratos con Datos
+title: Bertso Beltzak, lehen eta orain
 email: deustokom@deusto.es
-description: "El reto de visualizar datos COVID-19 durante la pandemia. Organizado por DeustoKom."
+description: ""
 
 
 # Team names, titles and social links
@@ -28,8 +28,8 @@ social:
 #    url: http://stackoverflow.com/questions/tagged/jekyll
 #  - title: bitbucket 
 #    url: http://bitbucket.org/jekyll
-  - title: youtube
-    url: https://www.youtube.com/playlist?list=PLUDmL1Ad-O82FJU0pLl9iBhFaxtwYI_zL
+  # - title: youtube
+  #   url: https://www.youtube.com/playlist?list=PLUDmL1Ad-O82FJU0pLl9iBhFaxtwYI_zL
   - title: github
     url: http://github.com/deustokom/
 
