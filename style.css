@@ -1,8 +1,3 @@
 ---
 layout: style
 ---
-
-@import	url("/fonts/machine-learning-font.css");
-
-.intro-heading { font-family:"MachineLearningFont1"; }
-.intro-lead-in { font-family: Inter; }
