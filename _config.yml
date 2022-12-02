@@ -1,0 +1,42 @@
+url: https://lab.deustokom.news
+baseurl: /RatosConDatos
+
+# Site settings
+title: Ratos con Datos
+email: deustokom@deusto.es
+description: "El reto de visualizar datos COVID-19 durante la pandemia. Organizado por DeustoKom."
+
+
+# Team names, titles and social links
+people:
+- name: Andoni Egaña
+  pic: andoniegana
+- name: Maialen Lujanbio
+  pic: maialenlujanbio
+- name: Alaia Martin
+  pic: alaiamartin
+- name: Julio Soto
+  pic: juliosoto
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/deustokomunika
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket 
+#    url: http://bitbucket.org/jekyll
+  - title: youtube
+    url: https://www.youtube.com/playlist?list=PLUDmL1Ad-O82FJU0pLl9iBhFaxtwYI_zL
+  - title: github
+    url: http://github.com/deustokom/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Mundaiz 50
+  - line: 20012 Donostia
+
+# Build settings
+markdown: kramdown
