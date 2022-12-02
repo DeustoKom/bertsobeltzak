@@ -305,12 +305,13 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: normal;
     line-height: 22px;
+    filter: blur(1px);
 }
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 50px;
+    font-size: 60px;
     font-weight: 700;
     line-height: 50px;
 }
@@ -328,12 +329,13 @@ header .intro-text .intro-heading {
         font-size: 40px;
         font-style: normal;
         line-height: 40px;
+        filter: blur(1px);
     }
 
     header .intro-text .intro-heading {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
-        font-size: 75px;
+        font-size: 90px;
         font-weight: 700;
         line-height: 75px;
     }
