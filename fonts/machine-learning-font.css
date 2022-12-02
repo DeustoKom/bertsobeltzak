@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'MachineLearningFont1';
+  src: url('fonts/MachineLearningFont-v1.woff2') format('woff2'),
+       url('fonts/MachineLearningFont-v1.woff') format('woff');
+}
+@font-face {
+  font-family: 'MachineLearningFont2';
+  src: url('fonts/MachineLearningFont-v2.woff2') format('woff2'),
+       url('fonts/MachineLearningFont-v2.woff') format('woff');
+}
