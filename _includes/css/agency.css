@@ -7,7 +7,8 @@
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #{{ site.data.template.color.secondary-dark }};
+    color: #ccc;
+    background-color:#333;
 }
 
 .text-muted {
@@ -62,7 +63,7 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #222;
 }
 
 .bg-darkest-gray {
